@@ -1,0 +1,5 @@
+C:\Users\ynami\OneDrive\Desktop\DateTime\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\DateTime\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\DateTime\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
